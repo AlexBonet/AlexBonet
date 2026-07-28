@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alejandro Bonet  
+# 👋 Hola, soy Alex Bonet  
 
 💻 Desarrollador de aplicaciones multiplataforma, backend y automatizaciones con IA.  
 
